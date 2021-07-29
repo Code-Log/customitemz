@@ -1,0 +1,6 @@
+name: CustomItemz
+version: 0.0.1
+main: com.codelog.customitemz.CustomItemz
+api-version: 1.17
+author: CodeLog
+
